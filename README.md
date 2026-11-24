@@ -1,4 +1,4 @@
-# Auditor di Ricerca IA e GEO | TAVARDT Italia
+# Auditor di Ricerca IA e GEO
 
 [![Auditor GEO](https://img.shields.io/badge/TAVARDT-Ricerca%20IA%20GEO-5b3cf5.svg)](https://tools.tavardt.com/it/audit-motori-ricerca-ia/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -48,3 +48,7 @@ Per analisi continue e verifiche di conformita su interfaccia grafica, consultar
 ## Consulenza in Semantica e Motori IA
 
 Per l ottimizzazione della visibilita semantica nei modelli generativi in Italia, contattare gli specialisti di **TAVARDT Italia**.
+
+***
+
+© 2026 TAVARDT. Tutti i diritti riservati.
