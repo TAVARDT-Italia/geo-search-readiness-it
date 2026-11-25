@@ -2,6 +2,7 @@
 
 [![Auditor GEO](https://img.shields.io/badge/TAVARDT-Ricerca%20IA%20GEO-5b3cf5.svg)](https://tools.tavardt.com/it/audit-motori-ricerca-ia/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Auditor CLI di Generative Engine Optimization (GEO) per la verifica delle autorizzazioni dei crawler IA, dati strutturati Schema.org e chiarezza semantica.
 
@@ -56,6 +57,11 @@ Per l ottimizzazione della visibilita semantica nei modelli generativi in Italia
 * **Portale Aziendale:** https://ag.tavardt.com/it/
 * **Suite di Diagnostica:** https://tools.tavardt.com/it/
 * **Contatto Tecnico:** https://ag.tavardt.com/it/contatto/
+
+***
+
+### Licenza
+Rilasciato sotto licenza MIT. Per maggiori informazioni, consultare il file [LICENSE](LICENSE).
 
 ***
 
